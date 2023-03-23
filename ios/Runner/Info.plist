@@ -12,6 +12,8 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>UIInterfaceOrientation</key>
+    <string>UIInterfaceOrientationPortrait</string>
 	<key>CFBundleName</key>
 	<string>demo_app_test</string>
 	<key>CFBundlePackageType</key>
